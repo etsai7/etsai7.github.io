@@ -18,14 +18,29 @@
 
 .child-right {
     height: 100%;
-    width: 50%;
+    width:45%;
     position: relative;
-    float: right
+    float: right;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.child-right h1{
+    position: relative;
+    top: 25%;
+    transform: translateY(-50%);
+}
+
+.child-right h3{
+    position: relative;
+    top: 25%;
+    transform: translateY(-50%);
 }
 
 .child-left {
     height:100%;
-    width:50%;
+    width:55%;
     float: left;
 }
 
