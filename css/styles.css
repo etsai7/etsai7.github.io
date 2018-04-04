@@ -118,3 +118,16 @@
     position: relative;
     padding: 5% 10% 5% 10%;
 }
+
+.contact-follow{
+    position: relative;
+    padding: 8% 25% 10% 25%;
+}
+
+.Meow{
+    display: block;
+    max-width:450px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
